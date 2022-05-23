@@ -29,7 +29,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | in progress | medium |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | done | medium |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | done | medium |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | done | easy |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | skipped | easy |
