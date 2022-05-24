@@ -33,10 +33,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | done | medium |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | done | easy |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | skipped | easy |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
-| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
-| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
-| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  | in progress | medium |
+| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  | in progress | hard |
+| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  | hard |
+| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  | done | medium |
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
 
